@@ -218,6 +218,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .mobile-nav {
+  max-height: 290px;
   position: fixed;
   top: 55px;
   right: 15px;
